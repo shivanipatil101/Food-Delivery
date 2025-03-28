@@ -34,7 +34,7 @@ Welcome to **TastyCart**, a deliciously designed food e-commerce website! 🛒�
 ## 🎬 Live Demo & Installation 🚀
 
 ### 💻 Live Demo 🌍
-👉 [[Click here to explore TastyCart](#)](https://shivanipatil101.github.io/Food-Delivery/) 🍽️
+👉 (https://shivanipatil101.github.io/Food-Delivery/) 🍽️
 
 ### 📥 Installation Guide 🛠️
 1. Clone this repository:
